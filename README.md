@@ -12,7 +12,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 1. In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Chris Coyer om deze vraag te beantwoorden
 <br>
 Voor mij ben je een goede developer, als je goed overweg kan met JS/CSS/HTML en daarmee de wensen van de klant kan vertalen naar een mooi eind product. Je moet open staan voor kritiek en veel geduld hebben.<br>
-Ik ben developer die nog heel veel moet leren, dus ik moet mezelf nog wat verder ontwikkelen om echt te weten wat voor programmmeur ik ben. Maar op dit moment, erg onzeker over mijn kunnen, opstaand voor kritiek, en ik moet heel erg mijn technische kennis van programmeren verbeteren.  
+Ik ben een developer die nog heel veel moet leren, dus ik moet mezelf nog wat verder ontwikkelen om echt te weten wat voor programmmeur ik ben. Maar op dit moment, erg onzeker over mijn kunnen, opstaand voor kritiek, en ik moet heel erg mijn technische kennis van programmeren verbeteren.  
 <br>
 <br>
 2. Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangspunt voor een digital designer is er voor zorgen dat een website door iedereen te gebruiken is. Toch zijn veel ontwikkelbedrijven zelf niet 'inclusive'. Ook de tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en _biased_ uitkomsten tot gevolg. Herken je dit als probleem? Moet dit veranderen? In wat voor team zie jij jezelf graag werken?
@@ -20,9 +20,9 @@ Ik ben developer die nog heel veel moet leren, dus ik moet mezelf nog wat verder
 <br>
 
 *Ik heb dit vooral gemerkt bij het creeren van producten voor "the public", maar dat het dan getest wordt door zeer technische software of hardware ontwikkelaars. Voor hun zijn bepaalde dingen van zelf sprekend, maar voor een novice gebruiker hoeft dat niet zo te zijn. En daar moet rekening mee worden gehouden tijdens het ontwikkelen van een software/hardware product.*
-<br><br>
-*Tijdens het testen moet er dus veel gebruik gemaakt worden van mensen die het product nog nooit hebben gebruikt, en geen hoge technische kennis hebben.*
 <br>
+*Tijdens het testen moet er dus veel gebruik gemaakt worden van mensen die het product nog nooit hebben gebruikt, en geen hoge technische kennis hebben. Zodat uiteindelijk ook de niet technische gebruikers het product kunnen gebruiken.*
+<br><br>
 *Persoonlijk zo ik het liefst in een mixed team werken. Dus: designers, developers, marketing, HRM, etc. Omdat het allemaal verschillende type mensen, en dat ik vind ik veel leuker dan alleen developers.*
 <br>
 <br>
