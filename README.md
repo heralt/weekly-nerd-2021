@@ -3,7 +3,7 @@
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
-## My three webdesign/webdevelopment rapports
+## Mijn drie webdev rapporten
 - [How DRY and SRP improved my code.](https://medium.com/p/ed202b5c6738/edit)
 - ["Promise" and "Middleware" explained.](https://medium.com/p/35ae3b78b572/edit)
 - [Different types of browser storage.](https://medium.com/p/8b92a83ce007/edit)
@@ -11,8 +11,12 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 ## Drie vragen
 1. In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Chris Coyer om deze vraag te beantwoorden
 <br>
-
+Voor mij ben je een goede developer, als je goed overweg kan met JS/CSS/HTML en daarmee de wensen van de klant kan vertalen naar een mooi eind product. Je moet open staan voor kritiek en veel geduld hebben.<br>
+Ik ben developer die nog heel veel moet leren, dus ik moet mezelf nog wat verder ontwikkelen om echt te weten wat voor programmmeur ik ben. Maar op dit moment, erg onzeker over mijn kunnen, opstaand voor kritiek, en ik moet heel erg mijn technische kennis van programmeren verbeteren.  
+<br>
+<br>
 2. Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangspunt voor een digital designer is er voor zorgen dat een website door iedereen te gebruiken is. Toch zijn veel ontwikkelbedrijven zelf niet 'inclusive'. Ook de tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en _biased_ uitkomsten tot gevolg. Herken je dit als probleem? Moet dit veranderen? In wat voor team zie jij jezelf graag werken?
+<br>
 <br>
 
 *Ik heb dit vooral gemerkt bij het creeren van producten voor "the public", maar dat het dan getest wordt door zeer technische software of hardware ontwikkelaars. Voor hun zijn bepaalde dingen van zelf sprekend, maar voor een novice gebruiker hoeft dat niet zo te zijn. En daar moet rekening mee worden gehouden tijdens het ontwikkelen van een software/hardware product.*
