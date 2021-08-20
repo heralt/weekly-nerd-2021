@@ -6,7 +6,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 ## My three webdesign/webdevelopment rapports
 - [How DRY and SRP improved my code.](https://medium.com/p/ed202b5c6738/edit)
 - [The term middleware explained to new web developer.](https://medium.com/p/35ae3b78b572/edit)
-- 
+- [Different types of browser storage.](https://medium.com/p/8b92a83ce007/edit)
 
 ## Leerdoelen
 - Kennismaken met het beroepenveld
